@@ -12,7 +12,7 @@
                 </p>
                 <div class="mt-sm-5 mt-4">
                     <nuxt-link to="/contact" class="btn btn-primary btn-style mr-2" > Hire Me </nuxt-link>
-                    <nuxt-link to="/contact" class="btn btn-outline-primary btn-style mr-2" > Portfolio </nuxt-link>
+                    <nuxt-link to="/projects" class="btn btn-outline-primary btn-style mr-2" > Portfolio </nuxt-link>
                 </div>
             </div>
             <div class="col-lg-6 col-md-8 col-sm-10 mt-lg-0 mt-4">
